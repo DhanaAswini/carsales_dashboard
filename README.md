@@ -1,10 +1,10 @@
 # 🚗 Car Sales Dashboard – Power BI Project
-📘 Overview
+## 📘 Overview
 
 This project is an interactive Power BI dashboard designed to analyze and visualize car sales performance.
 It provides clear insights into sales trends, top-performing models, revenue distribution, and regional performance — all through dynamic visuals that update in real time with filters and slicers.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Transform raw car sales data into actionable insights.
 
@@ -14,7 +14,7 @@ Analyze year-over-year trends, profit margins, and customer preferences.
 
 Build an engaging, interactive dashboard for easy data exploration.
 
-📊 Key Features
+## 📊 Key Features
 
 ✅ Dynamic visuals that update with user interaction.
 ✅ KPIs highlighting total sales, profit, and units sold.
@@ -22,7 +22,7 @@ Build an engaging, interactive dashboard for easy data exploration.
 ✅ Monthly trend analysis through charts and graphs.
 ✅ Filters for exploring different time periods and categories.
 
-🧠 Insights Gained
+## 🧠 Insights Gained
 
 SUVs and sedans had the highest contribution to total revenue.
 
@@ -32,7 +32,7 @@ Mid-range price models performed consistently across quarters.
 
 Real-time visuals made it easy to compare performance over time.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI for dashboard design and visualization
 
